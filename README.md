@@ -1,8 +1,8 @@
 # louvre_de_react
 
-# React by Stephen
-
 [React Project Checklist](https://www.notion.so/React-Project-Checklist-803e66c9e89942eb8b7a1eafbfed95a0)
+
+# React By Stephen
 
 # Chapter 1 - Let's dive in!
 
@@ -356,3 +356,13 @@
 # Chapter 28 - Replacing Redux with Context
 
 [Redux vs Context](https://www.notion.so/Redux-vs-Context-9e99681608334ef4be7c624623a3471d)
+
+# My Template
+
+[Class Based Component Template](https://github.com/paigeshin/react-class-based-template-videos)
+
+[Hook Based Component Template](https://github.com/paigeshin/react-hook-template-videos)
+
+[Redux Template](https://github.com/paigeshin/redux-template-restapi-googlesignin)
+
+[Context Template](https://github.com/paigeshin/React-Context-Template)
