@@ -2,6 +2,11 @@
 
 [React Project Checklist](https://www.notion.so/React-Project-Checklist-803e66c9e89942eb8b7a1eafbfed95a0)
 
+# Localization
+
+[Localization](https://github.com/paigeshin/react-translation-i18n)
+
+
 # React By Stephen
 
 # Chapter 1 - Let's dive in!
