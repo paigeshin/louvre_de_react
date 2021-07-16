@@ -2,6 +2,10 @@
 
 [React Project Checklist](https://www.notion.so/React-Project-Checklist-803e66c9e89942eb8b7a1eafbfed95a0)
 
+# Web Knowledge
+
+[cookies vs local storage vs session storage](https://www.notion.so/cookies-vs-local-storage-vs-session-storage-abf6b17b402944ea878a63eb5089a7df)
+
 # Localization
 
 [Localization](https://github.com/paigeshin/react-translation-i18n)
