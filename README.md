@@ -20,6 +20,22 @@
 
 # Templates
 
+[React-Typescript-Redux Template](https://github.com/paigeshin/react-redux-typescript-template)
+
+[Setting Up Typescript with React ](https://www.notion.so/Setting-Up-Typescript-with-React-e2a79d9e7b5e472a85fd1b37f402a1a4)
+
+[React-Typescript Basic Project](https://github.com/paigeshin/TS_TUTORIAL/tree/master/react-ts)
+
+[Stephen's Class Based Component Template](https://github.com/paigeshin/react-class-based-template-videos)
+
+[Stephen's Hook Based Component Template](https://github.com/paigeshin/react-hook-template-videos)
+
+[Stephen's Redux Template](https://github.com/paigeshin/redux-template-restapi-googlesignin)
+
+[Stephens Context Template](https://github.com/paigeshin/React-Context-Template)
+
+[Redux Google SignIn](https://github.com/paigeshin/redux-template-restapi-googlesignin)
+
 # Components
 
 [Localization](https://www.notion.so/Localization-c1ecdbd43bf5466792f5d333266bd7b9)
