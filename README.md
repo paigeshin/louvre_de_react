@@ -6,6 +6,38 @@
 
 [Localization](https://github.com/paigeshin/react-translation-i18n)
 
+# Dependency
+
+[react npm, sass installation](https://www.notion.so/react-npm-sass-installation-4b65d28a8f0a491bbf165dce13b2f929)
+
+[Localization](https://www.notion.so/Localization-c1ecdbd43bf5466792f5d333266bd7b9)
+
+[normalize css](https://www.notion.so/normalize-css-1aa85c386cd04a778149b3e8b446a85f)
+
+# Typescript Grammar
+
+[TS-BASIC](https://www.notion.so/TS-BASIC-6fb9d1bb4b0c4acb873e15c039b89ac9)
+
+# Templates
+
+# Components
+
+[Localization](https://www.notion.so/Localization-c1ecdbd43bf5466792f5d333266bd7b9)
+
+[Private Route](https://www.notion.so/Private-Route-c222fc5b90654a22b9823ed68d6b31ba)
+
+[Router with history object](https://www.notion.so/Router-with-history-object-939d06f7a83b42d8badee01f90998a73)
+
+[Routes Component](https://www.notion.so/Routes-Component-c4a17f5d7cec46619d1b6040389d4261)
+
+[Redux Store with persistent data (ts)](https://www.notion.so/Redux-Store-with-persistent-data-ts-aa29bededdcc47e3ab7dd52df968b619)
+
+[handle user when refreshing](https://www.notion.so/handle-user-when-refreshing-41ce0509fd4c4ae2add1e0170f64853a)
+
+[set auth token for axios ](https://www.notion.so/set-auth-token-for-axios-f6a09a3a7bf349d59cb8d1b0c924eaad)
+
+[set axios default value](https://www.notion.so/set-axios-default-value-1ea32abcabf04a57b2762d0126a4b9a1)
+
 
 # React By Stephen
 
