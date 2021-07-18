@@ -18,6 +18,10 @@
 
 [normalize css](https://www.notion.so/normalize-css-1aa85c386cd04a778149b3e8b446a85f)
 
+# Library
+
+[Lodash Core 5 functions](https://www.notion.so/Lodash-Core-5-functions-7000dca478d44386a5ac03392266599b)
+
 # Typescript Grammar
 
 [TS-BASIC](https://www.notion.so/TS-BASIC-6fb9d1bb4b0c4acb873e15c039b89ac9)
@@ -39,6 +43,7 @@
 [Stephens Context Template](https://github.com/paigeshin/React-Context-Template)
 
 [Redux Google SignIn](https://github.com/paigeshin/redux-template-restapi-googlesignin)
+
 
 # Hooks
 
