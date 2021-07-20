@@ -44,6 +44,9 @@
 
 [Redux Google SignIn](https://github.com/paigeshin/redux-template-restapi-googlesignin)
 
+# Javascript
+
+[resizing window width & height](https://www.notion.so/resizing-window-width-height-25d095fe30484a46858059a185ef6309)
 
 # Hooks
 
