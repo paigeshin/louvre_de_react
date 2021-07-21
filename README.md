@@ -22,6 +22,10 @@
 
 [Lodash Core 5 functions](https://www.notion.so/Lodash-Core-5-functions-7000dca478d44386a5ac03392266599b)
 
+[Styled Component](https://github.com/paigeshin/StyledComponentTutorial)
+
+[Styled Component](https://www.notion.so/Styled-Component-193efedb6a8f4a66b33b794b26124ecc)
+
 # Typescript Grammar
 
 [TS-BASIC](https://www.notion.so/TS-BASIC-6fb9d1bb4b0c4acb873e15c039b89ac9)
