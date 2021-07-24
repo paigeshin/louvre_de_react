@@ -2,6 +2,10 @@
 
 [React Project Checklist](https://www.notion.so/React-Project-Checklist-803e66c9e89942eb8b7a1eafbfed95a0)
 
+# Assets
+
+[https://undraw.co/illustrations](https://undraw.co/illustrations)  ⇒ free illustrations
+
 # Web Knowledge
 
 [cookies vs local storage vs session storage](https://www.notion.so/cookies-vs-local-storage-vs-session-storage-abf6b17b402944ea878a63eb5089a7df)
@@ -32,11 +36,21 @@
 
 [Prop Management](https://www.notion.so/Prop-Management-19645062ed9c4be787bfc8597c2e9b32)
 
+# Tricks
+
+[Clean import tricks](https://www.notion.so/Clean-import-tricks-ace88790d2e94bba832e78d7c7c0358d)
+
 # Typescript Grammar
 
 [TS-BASIC](https://www.notion.so/TS-BASIC-6fb9d1bb4b0c4acb873e15c039b89ac9)
 
 # Styled Components
+
+[Styled Components, Other ways to inherit ](https://www.notion.so/Styled-Components-Other-ways-to-inherit-aa1ca4e30cd34d16a8d97342e16f6257)
+
+[Clean import tricks](https://www.notion.so/Clean-import-tricks-ace88790d2e94bba832e78d7c7c0358d)
+
+[Styled Components, Code Separation guide](https://www.notion.so/Styled-Components-Code-Separation-guide-d7531e452e6c4ed9aef6aeebf75af215)
 
 [Styled Component](https://github.com/paigeshin/StyledComponentTutorial)
 
