@@ -26,9 +26,25 @@
 
 [Styled Component](https://www.notion.so/Styled-Component-193efedb6a8f4a66b33b794b26124ecc)
 
+[react-icons](https://www.notion.so/react-icons-e9f61530a92841babfb57d02ddecaaac)
+
+# Code Structure Guide
+
+[Prop Management](https://www.notion.so/Prop-Management-19645062ed9c4be787bfc8597c2e9b32)
+
 # Typescript Grammar
 
 [TS-BASIC](https://www.notion.so/TS-BASIC-6fb9d1bb4b0c4acb873e15c039b89ac9)
+
+# Styled Components
+
+[Styled Component](https://github.com/paigeshin/StyledComponentTutorial)
+
+[Styled Component](https://www.notion.so/Styled-Component-193efedb6a8f4a66b33b794b26124ecc)
+
+[My Project template](https://www.notion.so/My-Project-template-6b7b915e04414f08aff9cddc181867a5)
+
+[Styled Component Pass ClassName for overriding](https://www.notion.so/Styled-Component-Pass-ClassName-for-overriding-8c081dcc3f3a4e71a4be90f3c0e19042)
 
 # Templates
 
@@ -75,6 +91,16 @@
 [Custom Hooks](https://www.notion.so/Custom-Hooks-2b47422e441c4ac58896b5239de43f27)
 
 [React Interview Questions](https://www.notion.so/React-Interview-Questions-272838f88789438683f65f3d39b45096)
+
+# Techniques
+
+[Create reusable button](https://www.notion.so/Create-reusable-button-d629b2e8e8bd49f6becdf8cddeae4b30)
+
+[show hamburger programmatically](https://www.notion.so/show-hamburger-programmatically-937b4572f2984036b666a466fac0410e)
+
+[react-icons](https://www.notion.so/react-icons-e9f61530a92841babfb57d02ddecaaac)
+
+[Prop Management](https://www.notion.so/Prop-Management-19645062ed9c4be787bfc8597c2e9b32)
 
 # Components
 
