@@ -38,7 +38,19 @@
 
 # Tricks
 
+[Recalculate image keeping aspect ratio](https://www.notion.so/Recalculate-image-keeping-aspect-ratio-abccebbefe29412fa55a9e6b1cdbda14)
+
+[useRef Typescript](https://www.notion.so/useRef-Typescript-9c330003e2c148c18665b17c995379e8)
+
+[get path change event ](https://www.notion.so/get-path-change-event-d5d12d1796994cc3ae5a362f1b8227d3)
+
 [Clean import tricks](https://www.notion.so/Clean-import-tricks-ace88790d2e94bba832e78d7c7c0358d)
+
+# Event 
+
+[useLayoutEffect](https://www.notion.so/useRef-Typescript-9c330003e2c148c18665b17c995379e8)
+
+[get path change event ](https://www.notion.so/get-path-change-event-d5d12d1796994cc3ae5a362f1b8227d3)
 
 # Typescript Grammar
 
@@ -85,6 +97,10 @@
 [resizing window width & height](https://www.notion.so/resizing-window-width-height-25d095fe30484a46858059a185ef6309)
 
 # Hooks
+
+[useRef Typescript](https://www.notion.so/useRef-Typescript-9c330003e2c148c18665b17c995379e8)
+
+[useLayoutEffect](https://www.notion.so/useRef-Typescript-9c330003e2c148c18665b17c995379e8)
 
 [Hooks](https://github.com/paigeshin/Hook-Tutorial)
 
