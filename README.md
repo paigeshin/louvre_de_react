@@ -14,6 +14,14 @@
 
 [Localization](https://github.com/paigeshin/react-translation-i18n)
 
+# Image
+
+[react-crop example code](https://www.notion.so/react-crop-example-code-32c05296db1240f09873aac575ab5a3f)
+
+[Profile Image Upload ](https://www.notion.so/Profile-Image-Upload-ca3088d2d49346588e01d8bc841d09d5)
+
+[React Avatar with Cropper ](https://www.notion.so/React-Avatar-with-Cropper-bcf31c4b374b48899a1cc811b26e2529)
+
 # Dependency
 
 [react npm, sass installation](https://www.notion.so/react-npm-sass-installation-4b65d28a8f0a491bbf165dce13b2f929)
@@ -31,6 +39,8 @@
 [Styled Component](https://www.notion.so/Styled-Component-193efedb6a8f4a66b33b794b26124ecc)
 
 [react-icons](https://www.notion.so/react-icons-e9f61530a92841babfb57d02ddecaaac)
+
+[react-crop example code](https://www.notion.so/react-crop-example-code-32c05296db1240f09873aac575ab5a3f)
 
 # Code Structure Guide
 
@@ -92,6 +102,18 @@
 
 [Redux Google SignIn](https://github.com/paigeshin/redux-template-restapi-googlesignin)
 
+# CSS 
+
+[prevent date field from different appearance on other browsers](https://www.notion.so/prevent-date-field-from-different-appearance-on-other-browsers-d38624ae3c2b4228adf9e18d244e5fcc)
+
+[Button disabled handling css](https://www.notion.so/Button-disabled-handling-css-0c79d67d179745d5b72bd784dd638198)
+
+[Regex Password](https://www.notion.so/Regex-Password-b45e613d6ebe4826ae12f43eb111e2e9)
+
+# Regex
+
+[Regex Password](https://www.notion.so/Regex-Password-b45e613d6ebe4826ae12f43eb111e2e9)
+
 # Javascript
 
 [resizing window width & height](https://www.notion.so/resizing-window-width-height-25d095fe30484a46858059a185ef6309)
@@ -121,6 +143,32 @@
 [Custom Hooks](https://www.notion.so/Custom-Hooks-2b47422e441c4ac58896b5239de43f27)
 
 [React Interview Questions](https://www.notion.so/React-Interview-Questions-272838f88789438683f65f3d39b45096)
+
+[about useMemo, Practical Example](https://www.notion.so/about-useMemo-Practical-Example-7ce985b822c8445a871fbf3b2c33b02c)
+
+[about useCallback, practical examples](https://www.notion.so/about-useCallback-practical-examples-2492ea6b859248a7bbf41fca5c52eec9)
+
+[React.memo article](https://dmitripavlutin.com/use-react-memo-wisely/)
+
+[useCallback article](https://dmitripavlutin.com/dont-overuse-react-usecallback/)
+
+[useMemo article](https://medium.com/swlh/should-you-use-usememo-in-react-a-benchmarked-analysis-159faf6609b7)
+
+[useMemo article 2](https://dmitripavlutin.com/react-usememo-hook/)
+
+# Optimization
+
+[about useMemo, Practical Example](https://www.notion.so/about-useMemo-Practical-Example-7ce985b822c8445a871fbf3b2c33b02c)
+
+[about useCallback, practical examples](https://www.notion.so/about-useCallback-practical-examples-2492ea6b859248a7bbf41fca5c52eec9)
+
+[React.memo article](https://dmitripavlutin.com/use-react-memo-wisely/)
+
+[useCallback article](https://dmitripavlutin.com/dont-overuse-react-usecallback/)
+
+[useMemo article](https://medium.com/swlh/should-you-use-usememo-in-react-a-benchmarked-analysis-159faf6609b7)
+
+[useMemo article 2](https://dmitripavlutin.com/react-usememo-hook/)
 
 # Techniques
 
