@@ -120,6 +120,12 @@
 
 # Hooks
 
+[fix Performance Issue using useRef](https://betterprogramming.pub/how-to-useref-to-fix-react-performance-issues-4d92a8120c09) 
+
+[how to use `useReftHook` in Concurrent Mode](https://betterprogramming.pub/how-to-properly-use-the-react-useref-hook-in-concurrent-mode-38c54543857b)
+
+[Stop lying to React about Missing Dependencies](https://betterprogramming.pub/stop-lying-to-react-about-missing-dependencies-10612e9aeeda)
+
 [useRef Typescript](https://www.notion.so/useRef-Typescript-9c330003e2c148c18665b17c995379e8)
 
 [useLayoutEffect](https://www.notion.so/useRef-Typescript-9c330003e2c148c18665b17c995379e8)
