@@ -118,6 +118,12 @@
 
 [resizing window width & height](https://www.notion.so/resizing-window-width-height-25d095fe30484a46858059a185ef6309)
 
+# File Handling
+
+[React Node File Upload](https://github.com/paigeshin/react-node-ts-fileupload)
+
+[React - Node & typescript, file upload](https://www.notion.so/React-Node-typescript-file-upload-c264febcf45e44688b2c185526c321b2)
+
 # Hooks
 
 [fix Performance Issue using useRef](https://betterprogramming.pub/how-to-useref-to-fix-react-performance-issues-4d92a8120c09) 
