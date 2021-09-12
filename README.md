@@ -22,6 +22,10 @@
 
 [normalize css](https://www.notion.so/normalize-css-1aa85c386cd04a778149b3e8b446a85f)
 
+# API
+
+[Google Map](https://github.com/paigeshin/ts-tutorial_google-map)
+
 # Library
 
 [Lodash Core 5 functions](https://www.notion.so/Lodash-Core-5-functions-7000dca478d44386a5ac03392266599b)
