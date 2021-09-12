@@ -14,23 +14,6 @@
 
 [Localization](https://github.com/paigeshin/react-translation-i18n)
 
-# Image
-
-[React Crop - File Upload on git](https://github.com/paigeshin/react-easy-cropper-file-upload-s3-multers3)
-
-[react-crop example code](https://www.notion.so/react-crop-example-code-32c05296db1240f09873aac575ab5a3f)
-
-[Profile Image Upload ](https://www.notion.so/Profile-Image-Upload-ca3088d2d49346588e01d8bc841d09d5)
-
-[React Avatar with Cropper ](https://www.notion.so/React-Avatar-with-Cropper-bcf31c4b374b48899a1cc811b26e2529)
-
-[React Image Cropper, S3 Upload, Basic](https://www.notion.so/React-Image-Cropper-S3-Upload-Basic-e2b6a2e73308419eb86cc162f1be05c7)
-
-[React - Node, Multer S3, Image Cropper - FileUpload](https://www.notion.so/React-Node-Multer-S3-Image-Cropper-FileUpload-484e1354313a4333a9c742d7c2c0ed72)
-
-[Upload Image with S3 Signed URL from Clinet](https://www.notion.so/Upload-Image-with-S3-Signed-URL-from-Clinet-a069d0c437fd4b6795b1ec25194fdec4)
-
-
 # Dependency
 
 [react npm, sass installation](https://www.notion.so/react-npm-sass-installation-4b65d28a8f0a491bbf165dce13b2f929)
@@ -128,6 +111,20 @@
 [resizing window width & height](https://www.notion.so/resizing-window-width-height-25d095fe30484a46858059a185ef6309)
 
 # File Handling
+
+[React Crop - File Upload on git](https://github.com/paigeshin/react-easy-cropper-file-upload-s3-multers3)
+
+[react-crop example code](https://www.notion.so/react-crop-example-code-32c05296db1240f09873aac575ab5a3f)
+
+[Profile Image Upload ](https://www.notion.so/Profile-Image-Upload-ca3088d2d49346588e01d8bc841d09d5)
+
+[React Avatar with Cropper ](https://www.notion.so/React-Avatar-with-Cropper-bcf31c4b374b48899a1cc811b26e2529)
+
+[React Image Cropper, S3 Upload, Basic](https://www.notion.so/React-Image-Cropper-S3-Upload-Basic-e2b6a2e73308419eb86cc162f1be05c7)
+
+[React - Node, Multer S3, Image Cropper - FileUpload](https://www.notion.so/React-Node-Multer-S3-Image-Cropper-FileUpload-484e1354313a4333a9c742d7c2c0ed72)
+
+[Upload Image with S3 Signed URL from Clinet](https://www.notion.so/Upload-Image-with-S3-Signed-URL-from-Clinet-a069d0c437fd4b6795b1ec25194fdec4)
 
 [React Node File Upload](https://github.com/paigeshin/react-node-ts-fileupload)
 
