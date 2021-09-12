@@ -16,6 +16,8 @@
 
 # Image
 
+[React Crop - File Upload on git](https://github.com/paigeshin/react-easy-cropper-file-upload-s3-multers3)
+
 [react-crop example code](https://www.notion.so/react-crop-example-code-32c05296db1240f09873aac575ab5a3f)
 
 [Profile Image Upload ](https://www.notion.so/Profile-Image-Upload-ca3088d2d49346588e01d8bc841d09d5)
