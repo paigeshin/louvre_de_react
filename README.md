@@ -80,6 +80,8 @@
 
 # Templates
 
+[React TS Redux Template](https://github.com/paigeshin/react-ts-redux-setup-template)
+
 [React TS Styled Component](https://github.com/paigeshin/ts-react-my-template)
 
 [React-Typescript-Redux Template](https://github.com/paigeshin/react-redux-typescript-template)
