@@ -14,6 +14,10 @@
 
 [Localization](https://github.com/paigeshin/react-translation-i18n)
 
+# Webpack, Transpilling, Bundling
+
+[Bundling on Web browser, mini project](https://github.com/paigeshin/webbrowser_transpilling_bundling)
+
 # Dependency
 
 [react npm, sass installation](https://www.notion.so/react-npm-sass-installation-4b65d28a8f0a491bbf165dce13b2f929)
