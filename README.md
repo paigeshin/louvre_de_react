@@ -46,6 +46,10 @@
 
 [Prop Management](https://www.notion.so/Prop-Management-19645062ed9c4be787bfc8597c2e9b32)
 
+# TS - REACT Study
+
+[Common Sense, Basic Tutorial](https://github.com/paigeshin/react-typescript-basic-recap)
+
 # Tricks
 
 [Recalculate image keeping aspect ratio](https://www.notion.so/Recalculate-image-keeping-aspect-ratio-abccebbefe29412fa55a9e6b1cdbda14)
