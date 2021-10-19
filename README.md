@@ -60,6 +60,12 @@
 
 [Clean import tricks](https://www.notion.so/Clean-import-tricks-ace88790d2e94bba832e78d7c7c0358d)
 
+# Designing Redux Store
+
+[Blueprint example # 1](https://www.notion.so/Redux-Blueprint-example-f82c68d50ba94dc2820953f8a2dafc1d)
+
+[Blueprint example # 2](https://www.notion.so/Redux-Store-Design-Guide-2a314a08064844ecbbd7463d7b40239b)
+
 # Event 
 
 [useLayoutEffect](https://www.notion.so/useRef-Typescript-9c330003e2c148c18665b17c995379e8)
