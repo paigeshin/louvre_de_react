@@ -6,6 +6,10 @@
 
 [https://undraw.co/illustrations](https://undraw.co/illustrations)  ⇒ free illustrations
 
+# NPM
+
+[Create your own library](https://github.com/paigeshin/publish-npm-library-simplified)
+
 # Web Knowledge
 
 [cookies vs local storage vs session storage](https://www.notion.so/cookies-vs-local-storage-vs-session-storage-abf6b17b402944ea878a63eb5089a7df)
