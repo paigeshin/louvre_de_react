@@ -70,6 +70,8 @@
 
 [Blueprint example # 2](https://www.notion.so/Redux-Store-Design-Guide-2a314a08064844ecbbd7463d7b40239b)
 
+[Redux Project Example, Code Editor, ts-react](https://github.com/paigeshin/code-editor-ts-redux-react)
+
 # Event 
 
 [useLayoutEffect](https://www.notion.so/useRef-Typescript-9c330003e2c148c18665b17c995379e8)
