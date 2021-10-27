@@ -2,6 +2,10 @@
 
 [React Project Checklist](https://www.notion.so/React-Project-Checklist-803e66c9e89942eb8b7a1eafbfed95a0)
 
+# NextJS
+
+[NextJS with amazon lambda](https://falsy.me/serverless-framework-nextjs-aws-lambda/)
+
 # Assets
 
 [https://undraw.co/illustrations](https://undraw.co/illustrations)  ⇒ free illustrations
