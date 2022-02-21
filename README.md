@@ -26,6 +26,16 @@
 
 [Bundling on Web browser, mini project](https://github.com/paigeshin/webbrowser_transpilling_bundling)
 
+# Web App Deployment with CDK
+
+[WebApp Deployment](https://www.notion.so/WebApp-Deployment-8daea8edbe9741e09ee1823e7d289bca)
+
+# React Amplify 
+
+[initialize typescript project](https://www.notion.so/initialize-typescript-project-e21c28d89cec4ebcbe289ea15429cb44)
+
+[AWS React Amplify](https://www.notion.so/AWS-React-Amplify-41e39a6e19af4f228e80fad34afd1b8a)
+
 # Dependency
 
 [react npm, sass installation](https://www.notion.so/react-npm-sass-installation-4b65d28a8f0a491bbf165dce13b2f929)
